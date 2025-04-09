@@ -2,6 +2,12 @@
 
 Bienvenidos al repositorio oficial para los cursos de la FINESI - UNAP. Este repositorio sirve como centro para  los proyectos de estudiantes y recursos.
 
+# Cursos
+
+## ESTADÍSTICA COMPUTACIONAL - EST212[here](ESTADÍSTICA COMPUTACIONAL - EST212.md)
+## ESTRUCTURA DE DATOS - EST203[here](ESTRUCTURA DE DATOS - EST203.md)
+## METODOS DE OPTIMIZACIÓN - EST309[here](METODOS DE OPTIMIZACIÓN - EST309.md)
+
 
 ## Cómo Añadir Tu Repositorio
 
