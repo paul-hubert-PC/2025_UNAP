@@ -2,40 +2,6 @@
 
 Bienvenidos al repositorio oficial para los cursos de la FINESI - UNAP. Este repositorio sirve como centro para  los proyectos de estudiantes y recursos.
 
-## Cursos
-
-### ESTADÍSTICA COMPUTACIONAL - EST212
-**Profesor:** Prof. Fred Torres Cruz  
-**Grupo:** GRUPO 2
-
-#### Repositorios de Estudiantes
-| Nombre del Estudiante | Enlace al Repositorio |
-|--------------|-----------------|
-| [Nombre del Estudiante] | [Enlace al Repositorio] |
-
----
-
-### ESTRUCTURA DE DATOS - EST203
-**Profesor:** Prof. Fred Torres Cruz  
-**Grupo:** GRUPO 2
-
-#### Repositorios de Estudiantes
-| Nombre del Estudiante | Enlace al Repositorio |
-|--------------|-----------------|
-| [Nombre del Estudiante] | [Enlace al Repositorio] |
-
----
-
-### METODOS DE OPTIMIZACIÓN - EST309
-**Profesor:** Prof. Fred Torres Cruz  
-**Grupo:** GRUPO 3
-
-#### Repositorios de Estudiantes
-| Nombre del Estudiante | Enlace al Repositorio |
-|--------------|-----------------|
-| [Nombre del Estudiante] | [Enlace al Repositorio] |
-
----
 
 ## Cómo Añadir Tu Repositorio
 
