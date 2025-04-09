@@ -1,2 +1,12 @@
 
 
+### ESTADÍSTICA COMPUTACIONAL - EST212
+**Profesor:** Prof. Fred Torres Cruz  
+**Grupo:** GRUPO 2
+
+#### Repositorios de Estudiantes
+| Nombre del Estudiante | Enlace al Repositorio |
+|--------------|-----------------|
+| [Nombre del Estudiante] | [Enlace al Repositorio] |
+
+---
