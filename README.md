@@ -43,5 +43,5 @@ Todo el trabajo enviado debe ser propio. El plagio y la deshonestidad académica
 https://aprendemasinterbank.pe/ [Click Aqui](https://aprendemasinterbank.pe/)
 
 Para cualquier pregunta o problema, por favor contactar:
-- Email: fred.torres@unap.edu.pe
+- Email: ftorres@unap.edu.pe
 - Horario de Oficina: Lunes y Miércoles 14:00 - 16:00
